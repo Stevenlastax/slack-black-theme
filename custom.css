@@ -30,7 +30,7 @@ limitations under the License.
    --border-bright: var(--primary);
 
    --text-bright: #FFF;
-   --text-special: var(--primary);
+   --text-special: #0000FF;
 
    --scrollbar-background: #000;
    --scrollbar-border: var(--primary);
